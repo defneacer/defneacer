@@ -1,4 +1,5 @@
-![image](https://github.com/defneacer/defneacer/assets/139644261/16ea306e-f9ed-41c6-b1c5-98efa38c1f8c)
+![image](https://github.com/defneacer/defneacer/assets/139644261/4a7ed275-9f7d-4f59-8cab-2d7881326c2a)
+
 
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
 <h3 align="center">Data Scientist</h3>
