@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, SQL, Tableau,PowerBI**
+- 💬 Ask me about **Python, SQL, Tableau, PowerBI**
 
 - 📫 How to reach me **defneeylulacer@gmail.com**
 
