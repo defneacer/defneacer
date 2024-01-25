@@ -1,7 +1,7 @@
-[![MasterHead](![image](https://github.com/defneacer/defneacer/assets/139644261/1ba9b3d2-c237-469d-b1e9-b64058987197))
+![image](https://github.com/defneacer/defneacer/assets/139644261/16ea306e-f9ed-41c6-b1c5-98efa38c1f8c)
 
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🌱 I’m currently learning **ML**
 
