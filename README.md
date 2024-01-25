@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🌱 I’m currently learning **ML**
+- 🔭 I’m currently working on **Data Science**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 💬 Ask me about **Python, SQL, Tableau,PowerBI**
 
 - 📫 How to reach me **defneeylulacer@gmail.com**
 
