@@ -1,4 +1,5 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Ftopics%2Fcomputer-vision&psig=AOvVaw2bS6RDOvJNdB7nBXZZZpZ1&ust=1706264032748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCq6YCn-IMDFQAAAAAdAAAAABAs)
+
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
 
