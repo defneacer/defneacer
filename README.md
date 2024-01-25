@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Ftopics%2Fcomputer-vision&psig=AOvVaw2bS6RDOvJNdB7nBXZZZpZ1&ust=1706264032748000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCq6YCn-IMDFQAAAAAdAAAAABAs)
+[![MasterHead](![image](https://github.com/defneacer/defneacer/assets/139644261/1ba9b3d2-c237-469d-b1e9-b64058987197))
 
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
 <h3 align="center">A passionate Data Scientist from Turkey</h3>
