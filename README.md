@@ -1,4 +1,4 @@
-![image](https://github.com/defneacer/defneacer/assets/139644261/0c88af13-0d16-4376-b3ff-eca2cd054502)
+
 
 
 <h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
