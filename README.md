@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Tableau, PowerBI, Deep Learning**
+- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI**
 
 - 📫 How to reach me **defneeylulacer@gmail.com**
 
