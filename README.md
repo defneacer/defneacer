@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Defne Eylul Acer</h1>
+<h1 align="left">About Me:</h1>
 <h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on **Data Science**
