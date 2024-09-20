@@ -2,8 +2,6 @@
 
 
 <h1 align="left">About Me:</h1>
-<h3 align="center">Data Scientist</h3>
-
 - 🔭 I’m currently working on **Data Science**
 
 - 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI**
