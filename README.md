@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Data Science<br><br>💬 Ask me about Python, SQL, Machine Learning, Deep Learning, Tableau, PowerBI<br><br>📫 How to reach me defneeylulacer@gmail.com
+🔭 I’m currently working as Data Science<br><br>📫 How to reach me defneeylulacer@gmail.com
 
 
 ## 🌐 Socials:
